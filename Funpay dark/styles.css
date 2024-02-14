@@ -1,0 +1,57 @@
+body {
+  background-color: #141414 !important;
+  color: #888 !important;
+}
+.game-title a {
+    color: #888 !important; /* Изменяем цвет текста на белый */
+}
+.bg-light-color {
+    background: #141414 !important;
+}
+.navbar-default {
+    background-color: #141414 !important;
+    border-color: #e4e4e4 !important;
+}
+.dropdown-menu {
+  background-color: #141414 !important;
+}
+.content-with-cd-wide {
+	  background-color: #141414 !important;
+}
+a.tc-item {
+    color: #888 !important;
+    text-decoration: none !important;
+}
+.form-control-box {
+    background: #141414 !important;
+    border: 1px !important;
+}
+.btn-gray {
+    color: #888 !important;
+    background-color: #141414 !important;
+    border-color: #515151;
+}
+.form-control {
+	color: #ffffff !important;
+	 background-color: #141414 !important;
+}
+.chat {
+	background: #141414 !important;
+}
+.bootstrap-select .dropdown-menu>li>a {
+    color: #fdfdfd !important;
+}
+.chat-promo {
+	background: #141414 !important;
+}
+.counter-list .counter-item {
+	background: black !important;
+}
+.media-user-name a {
+    color: #888 !important;
+}
+.btn-default {
+    color: #4384d0;
+    background-color: #141414 !important;
+    border-color: #363636;
+}
